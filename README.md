@@ -1,4 +1,4 @@
-Imagify 
+# Portfolio
 ______________________________________
 
 I designed and developed an interactive portfolio website using HTML, CSS, and JavaScript, enhanced with GSAP and ScrollTrigger for smooth,
